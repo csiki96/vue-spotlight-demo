@@ -4,7 +4,7 @@
 
 ## Author
 
-Patrik Csík [@csiki96]
+Patrik Csík 
 
 ## Licence
 
